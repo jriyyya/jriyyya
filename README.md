@@ -66,7 +66,7 @@
 
   <br/>
     <a href="https://github.com/jriyyya/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=jriyyya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/xdragon2002/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jriyyya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/jriyyya/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jriyyya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <br/>
@@ -80,4 +80,4 @@
 </p>
  
 ## Views and Followers
-<a href="https://github.com/xdragon2002?tab=followers"><img src="https://img.shields.io/github/followers/jriyyya?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/jriyyya)  
+<a href="https://github.com/jriyyya?tab=followers"><img src="https://img.shields.io/github/followers/jriyyya?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/jriyyya)  
