@@ -2,7 +2,7 @@
 <a href="#"><img width="38%" src="https://gifdb.com/images/high/happy-cat-working-on-computer-cartoon-c2cinzv2rijwf3en.gif" height="auto"/></a>
 </div>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Riya Jain!
+<h1 align="center">Hi, I'm Riya Jain!
 <h3 align="center">I'm a passionate Full Stack Web Developer and loves developing games</h3>
 
  ## 🙋‍♂️ About Me
