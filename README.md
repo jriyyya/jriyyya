@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Blockchain development**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m working on **Open Source Projects**
  
 - 📫 Reach out to me at my **<a href="mailto:riya1jain567@gmail.com">Email</a>**
  
