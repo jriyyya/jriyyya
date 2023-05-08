@@ -72,6 +72,10 @@
   <br/>
 
 <br/>
+ 
+ [![Riya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jriyyya&theme=tokyo-night)](https://github.com/jriyyya/github-readme-activity-graph)
+
+ 
 <br/>
 
 ## Connect with me:
