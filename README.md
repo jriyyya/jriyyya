@@ -70,11 +70,6 @@
     <a href="https://github.com/jriyyya/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=jriyyya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/jriyyya/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jriyyya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-
-<br/>
- 
- [![Riya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jriyyya&theme=tokyo-night)](https://github.com/jriyyya/github-readme-activity-graph)
-
  
 <br/>
 
