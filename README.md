@@ -11,6 +11,14 @@
 - 👯 I’m working on **Open Source Projects** 
 - 📫 Reach out to me at my **<a href="mailto:riya1jain567@gmail.com">Email</a>** 
 - 🧑 More of me at my **[Portfolio Website](https://bit.ly/jriyyya)** 
+
+## Achievements 
+
+- **EthOxford 2024** - Nest stood a winner among 440+ participants, and 150+ Projects
+- **Avalanche Frontier Hackathon** - Loxel won the main track of Decentralised social media and gaming and two sponser prizes of Solana and Bitso
+- **Web5: Building the Decentralized Web** - FifthPoll won the Best Empowerment & Enablement Inspired App among 1500+ participants
+- **Chainlink spring Hackathon** - AgroSurance won the Chainlink Tech for Good 2nd Prize among 2500+ participants, and 500+ Projects
+
  
 ## 📊 My Github Stats
  
