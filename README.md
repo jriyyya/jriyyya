@@ -14,8 +14,8 @@
 
 ## 🏆 Achievements 
 
-- **EthOxford 2024** - Nest stood a winner among 440+ participants, and 150+ Projects
-- **Avalanche Frontier Hackathon** - Loxel won the main track of Decentralised social media and gaming and two sponser prizes of Solana and Bitso
+- **Avalanche Frontier Hackathon** - Nest stood a winner among 440+ participants, and 150+ Projects
+- **EthOxford 2024** - Loxel won the main track of Decentralised social media and gaming and two sponser prizes of Solana and Bitso
 - **Web5: Building the Decentralized Web** - FifthPoll won the Best Empowerment & Enablement Inspired App among 1500+ participants
 - **Chainlink spring Hackathon** - AgroSurance won the Chainlink Tech for Good 2nd Prize among 2500+ participants, and 500+ Projects
 
