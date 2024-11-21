@@ -7,8 +7,8 @@
 
 ## 👩‍💻 About Me
 
-- 🚀 I’m currently participating in a **Web3 Hackathon**
-- 🐱 I’m working on **Open Source Projects** 
+- 🚀 I’m currently working on **Web3 startup**
+- 🐱 I will be attending **Taipei blockchain week** in Dec
 - 📫 Reach out to me at my **<a href="mailto:riya1jain567@gmail.com">Email</a>** 
 - 🧑 More of me at my **[Portfolio Website](https://bit.ly/jriyyya)** 
 
