@@ -1,12 +1,10 @@
-## 👩‍💻 About Me
-
-- 🚀 I’m currently working on a **Web3 startup**
-- 🐱 I will be attending **Taipei blockchain week** in December
-- 📫 Reach out to me at my **<a href="mailto:riya1jain567@gmail.com">Email</a>** 
-- 🧑 More of me at my **[Portfolio Website](https://bit.ly/jriyyya)** 
+## Hey there 👋
+- I’m currently working on a **Web3 startup**
+- I will be attending **Taipei blockchain week** in December
+- Reach out to me at my **<a href="mailto:riya1jain567@gmail.com">Email</a>** 
+- More of me at my **[Portfolio Website](https://jriyyya.dev)** ps last updated in 2022 🥲 
 
 ## 🏆 Achievements 
-
 
 - **TRON Grand Hackathon - Season 7** - JustInsure won two prizes, 3rd prize Defi track and 4th prize Community track, among 1300+ participants.
 - **Avalanche Frontier Hackathon** - Nest stood a winner among 440+ participants, and 150+ Projects
