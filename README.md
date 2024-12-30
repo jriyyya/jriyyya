@@ -1,6 +1,6 @@
 ## Hey there 👋
 - I’m currently working on a **Web3 startup**
-- I will be attending **Taipei blockchain week** in December
+- I will be attending **EthOxford** in Feb
 - Reach out to me at my **<a href="mailto:riya1jain567@gmail.com">Email</a>** 
 - More of me at my **[Portfolio Website](https://jriyyya.dev)** ps last updated in 2022 🥲 
 
