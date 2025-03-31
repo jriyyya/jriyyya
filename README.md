@@ -13,3 +13,7 @@
 - **EthOxford 2024** - Loxel won the main track of Decentralised social media and gaming and two sponser prizes of Solana and Bitso
 - **Web5: Building the Decentralized Web** - FifthPoll won the Best Empowerment & Enablement Inspired App among 1500+ participants
 - **Chainlink spring Hackathon** - AgroSurance won the Chainlink Tech for Good 2nd Prize among 2500+ participants, and 500+ Projects
+
+## Open source
+- **Google Summer of code 2024 Mentee, 2025 Mentor [Zendalona](https://github.com/zendalona)**
+- **Google Summer of code 2023 Mentee [Sugar Labs](https://github.com/sugarlabs)**
