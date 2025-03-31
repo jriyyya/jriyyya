@@ -1,6 +1,6 @@
 ## Hey there 👋
-- I’m currently working on a **Web3 startup**
-- I will be attending **EthOxford** in Feb
+- I’m currently working as a Full stack blockchain developer
+- I will be attending **EthPrague** in May
 - Reach out to me at my **<a href="mailto:riya1jain567@gmail.com">Email</a>**
 
 ## 🏆 Achievements 
